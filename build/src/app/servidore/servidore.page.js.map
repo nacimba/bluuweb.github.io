@@ -1,0 +1,1 @@
+{"version":3,"file":"servidore.page.js","sourceRoot":"","sources":["../../../../src/app/servidore/servidore.page.ts"],"names":[],"mappings":";;;;AAAA,wCAAkD;AAOlD,IAAa,aAAa,GAA1B,MAAa,aAAa;IAExB,gBAAgB,CAAC;IAEjB,QAAQ;IACR,CAAC;CAEF,CAAA;AAPY,aAAa;IALzB,gBAAS,CAAC;QACT,QAAQ,EAAE,eAAe;QACzB,WAAW,EAAE,uBAAuB;QACpC,SAAS,EAAE,CAAC,uBAAuB,CAAC;KACrC,CAAC;GACW,aAAa,CAOzB;AAPY,sCAAa"}

@@ -1,0 +1,7 @@
+{
+  "name": "mitienda",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
